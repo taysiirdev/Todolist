@@ -1,2 +1,8 @@
+# maaha muhiim faylashan
 note.txt
 node_module/
+#dhamaan waan ka reebay kuwan
+*.txt
+
+!vip.txt
+
