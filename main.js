@@ -1,2 +1,3 @@
-console.log("ok")
-console.log("todo app")
+const main = () => {
+    return "main"
+}
